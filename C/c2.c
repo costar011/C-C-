@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+int main(void)
 {
     int a = 0xA7, b = 0x43;
     int c = 032, d = 024;
